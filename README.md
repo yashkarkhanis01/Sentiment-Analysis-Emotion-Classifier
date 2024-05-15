@@ -38,7 +38,7 @@ This open-source Python project utilizes machine learning techniques to analyze 
 
 ## ❤️ Contributors:
 <br>
-<a href="https://github.com/your_username/sentiment-analysis/graphs/contributors">
+<a href="https://github.com/yashkarkhanis01/sentiment-analysis/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=your_username/sentiment-analysis&&max=817" />
 </a>
 </br>
